@@ -1,0 +1,4 @@
+﻿Work Center ID,Work Center Status,Work Center Description,Technicians,Technician First Name (from Technicians),Skill Description (from Technicians)
+1,In service,Brussels,"6,11,16","Luc Dupuis, André Philippe, Charles Renault","Mecanician, Inspector Junior, Inspector Senior"
+2,In service,Wallonia,9,Mathieu Gérard,Inspector Junior
+3,In service,Flanders,"2,12,17","Jacques Lefèvre, Jean Durand, Victor Caron","Electrician, Inspector Junior, Inspector Senior"

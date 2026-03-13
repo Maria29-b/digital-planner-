@@ -1,0 +1,3 @@
+﻿Working Hour ID,Status,Work Hour Description,Start Hour,End Hour,Pause start,Pause end
+1,Active,Morning,7:00,17:00,11:00,12:00
+2,Not active,Evening,11:00,20:00,15:00,16:00

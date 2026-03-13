@@ -1,0 +1,8 @@
+﻿Technician ID,Technicial status,Technician First Name,Technician Last Name,Technician first and last name,MD_Skills,Skill Description,MD_Availability,Availability Description (from MD_Availability),Start Hour (from MD_Working Hours),Start Hour (from MD_Working Hours) copy,Pause start (from MD_Working Hours),Pause end (from MD_Working Hours) copy,Technician Address-Street,Technician Address-Door,Technician Address-Post Code,Asset Address-City,MD_Work Centers,Work Center Description (from MD_Work Centers),Work Order Operations,MD_Holidays
+6,In service,Luc,Dupuis,Luc Dupuis,2,Mecanician,1,Morning,7:00,7:00,11:00,12:00,Avenue Notre Dame,101,1140,Bruxelles,1,Brussels,,
+11,In service,André,Philippe,André Philippe,3,Inspector Junior,1,Morning,7:00,7:00,11:00,12:00,Rue Van Hoorde,9,1030,Bruxelles,1,Brussels,,
+16,In service,Charles,Renault,Charles Renault,4,Inspector Senior,1,Morning,7:00,7:00,11:00,12:00,Avenue Clémenceau,44,1070,Bruxelles,1,Brussels,,
+2,In service,Jacques,Lefèvre,Jacques Lefèvre,1,Electrician,1,Morning,7:00,7:00,11:00,12:00,Gordunakaai ,91,9000,Gent,3,Flanders,,
+12,In service,Jean,Durand,Jean Durand,3,Inspector Junior,1,Morning,7:00,7:00,11:00,12:00,Korenlei,10,9000,Gent,3,Flanders,,
+9,In service,Mathieu,Gérard,Mathieu Gérard,3,Inspector Junior,1,Morning,7:00,7:00,11:00,12:00,Rue Saint-Gilles,104,4000,Liège,2,Wallonia,,
+17,In service,Victor,Caron,Victor Caron,4,Inspector Senior,1,Morning,7:00,7:00,11:00,12:00,Place Saint-Lambert,27,4000,Liège,3,Flanders,,
