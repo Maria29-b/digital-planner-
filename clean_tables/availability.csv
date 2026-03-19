@@ -1,0 +1,3 @@
+﻿pk_working_hour_id,status,working_hour_description,start_hour,end_hour,pause_start,pause_end
+1,Active,Morning,7:00,17:00,11:00,12:00
+2,Not active,Evening,11:00,20:00,15:00,16:00

@@ -1,0 +1,146 @@
+﻿pk_asset_id,asset_status,asset_description,address_street,address_door,address_post_code,address_city,asset_region,fk_work_center_id,fk_customer_id,fk_criticality,created_at
+1,In service,Asset Description 1,Rue de la Loi,16,1000,Brussels,Brussels,1,1,Good,18/9/2024 22:33
+2,In service,Asset Description 2,Avenue Louise,50,1050,Brussels,Brussels,1,1,Adequate,18/9/2024 22:34
+3,In service,Asset Description 3,Chaussée de Waterloo,200,1060,Brussels,Brussels,1,1,Bad,18/9/2024 22:34
+4,In service,Asset Description 4,Rue Victor Hugo,100,1030,Brussels,Brussels,1,1,Adequate,27/10/2024 15:19
+5,In service,Asset Description 5,Avenue de Tervueren,150,1150,Brussels,Brussels,1,1,Good,27/10/2024 15:19
+6,In service,Asset Description 6,Boulevard Lambermont,300,1030,Brussels,Brussels,1,2,Good,27/10/2024 20:50
+7,In service,Asset Description 7,Rue de la Station,5,1080,Brussels,Brussels,1,2,Adequate,27/10/2024 20:50
+8,In service,Asset Description 8,Avenue Charles Quint,25,1082,Brussels,Brussels,1,3,Adequate,27/10/2024 20:50
+9,In service,Asset Description 9,Rue de l'Église,10,1081,Brussels,Brussels,1,4,Bad,27/10/2024 20:50
+10,In service,Asset Description 10,Chaussée de Gand,400,1080,Brussels,Brussels,1,5,Adequate,27/10/2024 20:50
+11,In service,Asset Description 11,Rue de la Paix,15,1140,Brussels,Brussels,1,1,Adequate,1/11/2024 21:17
+12,In service,Asset Description 12,Avenue des Cerisiers,20,1200,Brussels,Brussels,1,1,Good,1/11/2024 21:17
+13,In service,Asset Description 13,Rue de la Station,8,1210,Brussels,Brussels,1,1,Adequate,1/11/2024 21:17
+14,In service,Asset Description 14,Boulevard du Souverain,100,1160,Brussels,Brussels,1,1,Good,1/11/2024 21:17
+15,In service,Asset Description 15,Rue de l'Hôtel des Monnaies,30,1060,Brussels,Brussels,1,1,Bad,1/11/2024 21:17
+16,In service,Asset Description 16,Avenue de la Couronne,50,1050,Brussels,Brussels,1,2,Good,1/11/2024 21:17
+17,In service,Asset Description 17,Rue de la Brasserie,60,1050,Brussels,Brussels,1,2,Bad,1/11/2024 21:17
+18,In service,Asset Description 18,Chaussée de Louvain,70,1210,Brussels,Brussels,1,3,Good,1/11/2024 21:17
+19,In service,Asset Description 19,Rue de la Loi,200,1040,Brussels,Brussels,1,4,Adequate,1/11/2024 21:17
+20,In service,Asset Description 20,Avenue de la Toison d'Or,12,1050,Brussels,Brussels,1,5,Bad,1/11/2024 21:17
+21,In service,Asset Description 21,Rue de la Chapelle,5,1000,Brussels,Brussels,1,4,Adequate,1/11/2024 21:25
+22,In service,Asset Description 22,Boulevard Anspach,24,1000,Brussels,Brussels,1,5,Bad,1/11/2024 21:25
+23,In service,Asset Description 23,Rue du Bailli,100,1050,Brussels,Brussels,1,5,Adequate,1/11/2024 21:27
+24,In service,Asset Description 24,Avenue Brugmann,200,1180,Brussels,Brussels,1,5,Adequate,1/11/2024 21:27
+25,In service,Asset Description 25,Meir,50,2000,Antwerpen,Flanders,3,6,Bad,1/11/2024 22:36
+26,In service,Asset Description 26,Korenmarkt,1,9000,Ghent,Flanders,3,7,Good,1/11/2024 22:37
+27,In service,Asset Description 27,Steenstraat,38,8000,Bruges,Flanders,3,8,Bad,1/11/2024 22:37
+28,In service,Asset Description 28,Bondgenotenlaan,20,3000,Leuven,Flanders,3,9,Good,1/11/2024 22:37
+29,In service,Asset Description 29,Bruul,42,2800,Mechelen,Flanders,3,17,Adequate,1/11/2024 22:37
+30,In service,Asset Description 30,Veldstraat,23,9000,Ghent,Flanders,3,16,Bad,1/11/2024 22:37
+31,In service,Asset Description 31,Hoogstraat,15,2000,Antwerpen,Flanders,3,10,Adequate,1/11/2024 22:37
+32,In service,Asset Description 32,Lippenslaan,10,8300,Knokke-Heist,Flanders,3,13,Bad,1/11/2024 22:37
+33,In service,Asset Description 33,Diestsestraat,5,3000,Leuven,Flanders,3,11,Adequate,1/11/2024 22:37
+34,In service,Asset Description 34,Kapellestraat,60,8400,Ostend,Flanders,3,12,Adequate,1/11/2024 22:37
+35,In service,Asset Description 35,Veldstraat,20,9000,Ghent,Flanders,3,10,Bad,1/11/2024 22:37
+36,In service,Asset Description 36,Lange Munt,8,9000,Ghent,Flanders,3,15,Good,1/11/2024 22:37
+37,In service,Asset Description 37,Schuttershofstraat,25,2000,Antwerpen,Flanders,3,14,Bad,1/11/2024 22:37
+38,In service,Asset Description 38,Vlamingstraat,30,8000,Bruges,Flanders,3,17,Good,1/11/2024 22:37
+39,In service,Asset Description 39,Tiensestraat,18,3000,Leuven,Flanders,3,17,Adequate,1/11/2024 22:37
+40,In service,Asset Description 40,Onze-Lieve-Vrouwestraat,22,2800,Mechelen,Flanders,3,18,Bad,1/11/2024 22:37
+41,In service,Asset Description 41,Vlaanderenstraat,35,9000,Ghent,Flanders,3,21,Adequate,1/11/2024 22:37
+42,In service,Asset Description 42,Kloosterstraat,40,2000,Antwerpen,Flanders,3,10,Bad,1/11/2024 22:37
+43,In service,Asset Description 43,Langestraat,45,8000,Bruges,Flanders,3,17,Adequate,1/11/2024 22:37
+44,In service,Asset Description 44,Naamsestraat,50,3000,Leuven,Flanders,3,19,Adequate,1/11/2024 22:37
+45,In service,Asset Description 45,Ijzerenleen,55,2800,Mechelen,Flanders,3,10,Good,1/11/2024 22:38
+46,In service,Asset Description 46,Zonnestraat,60,9000,Ghent,Flanders,3,19,Adequate,1/11/2024 22:38
+47,In service,Asset Description 47,Nationalestraat,65,2000,Antwerpen,Flanders,3,29,Bad,1/11/2024 22:38
+48,In service,Asset Description 48,Sint-Jakobsstraat,70,8000,Bruges,Flanders,3,20,Adequate,1/11/2024 22:38
+49,In service,Asset Description 49,Av. du Bourg. Jean Materne,115,5100,Namur,Wallonia,2,21,Adequate,1/11/2024 23:48
+50,In service,Asset Description 50,Avenue Louise,50,6000,Charleroi,Wallonia,2,22,Bad,1/11/2024 23:48
+51,In service,Asset Description 51,Bd John Fitzgerald Kennedy,2,7000,Mons,Wallonia,2,23,Adequate,1/11/2024 23:48
+52,In service,Asset Description 52,Rue Victor Hugo,100,4000,Liège,Wallonia,2,24,Adequate,1/11/2024 23:48
+53,In service,Asset Description 53,Rue de Fer,48,5000,Namur,Wallonia,2,25,Good,1/11/2024 23:48
+54,In service,Asset Description 54,Bd Joseph Tirou,12,6000,Charleroi,Wallonia,2,26,Adequate,1/11/2024 23:48
+55,In service,Asset Description 55,Rue de la Station,5,7000,Mons,Wallonia,2,14,Bad,1/11/2024 23:48
+56,In service,Asset Description 56,Rue de Mons,9,4000,Liège,Wallonia,2,17,Adequate,1/11/2024 23:48
+57,In service,Asset Description 57,Rue de l'Église,10,5000,Namur,Wallonia,2,29,Adequate,1/11/2024 23:48
+58,In service,Asset Description 58,Bd Solvay,22,6000,Charleroi,Wallonia,2,30,Adequate,1/11/2024 23:48
+59,In service,Asset Description 59,Rue de la Paix,15,7000,Mons,Wallonia,2,31,Bad,1/11/2024 23:48
+60,In service,Asset Description 60,Avenue des Cerisiers,20,4000,Liège,Wallonia,2,32,Good,1/11/2024 23:48
+61,In service,Asset Description 61,Rue de la Station,8,5000,Namur,Wallonia,2,33,Bad,1/11/2024 23:48
+62,In service,Asset Description 62,Bd Joseph Tirou,62,6000,Charleroi,Wallonia,2,34,Good,1/11/2024 23:48
+63,In service,Asset Description 63,Av. Thomas Edison ,2,7000,Mons,Wallonia,2,35,Adequate,1/11/2024 23:48
+64,In service,Asset Description 64,Imp. de la Couronne,50,4000,Liège,Wallonia,2,36,Adequate,1/11/2024 23:48
+65,In service,Asset Description 65,Rue de la Brasserie,60,5000,Namur,Wallonia,2,29,Adequate,1/11/2024 23:48
+66,In service,Asset Description 66,Bd Joseph Tirou,10,6000,Charleroi,Wallonia,2,20,Bad,1/11/2024 23:48
+67,In service,Asset Description 67,Av. Thomas Edison,12,7000,Mons,Wallonia,2,21,Good,1/11/2024 23:48
+68,In service,Asset Description 68,Rue de Mons,11,4000,Liège,Wallonia,2,40,Bad,1/11/2024 23:48
+69,In service,Asset Description 69,Rue de la Chapelle,5,5000,Namur,Wallonia,2,3,Good,1/11/2024 23:48
+70,In service,Asset Description 70,Bd Joseph Tirou,20,6000,Charleroi,Wallonia,2,4,Adequate,1/11/2024 23:48
+71,In service,Asset Description 71,Av. du Plan Incliné ,7,7012,Mons,Wallonia,2,5,Good,1/11/2024 23:48
+72,In service,Asset Description 72,Rue de Mons,13,4000,Liège,Wallonia,2,44,Good,1/11/2024 23:48
+73,In service,Asset Description 73,Rue de Stalle,50,1180,Brussels,Brussels,1,45,Good,1/11/2024 23:48
+74,In service,Asset Description 74,Chaussée d'Alsemberg,150,1190,Brussels,Brussels,1,46,Adequate,1/11/2024 23:48
+75,In service,Asset Description 75,Rue de la Station,10,1190,Brussels,Brussels,1,47,Adequate,1/11/2024 23:48
+76,In service,Asset Description 76,Parijsstraat,75,3000,Leuven,Flanders,3,48,Bad,1/11/2024 23:48
+77,In service,Asset Description 77,Frederik de Merodestraat,80,2800,Mechelen,Flanders,3,49,Good,1/11/2024 23:48
+78,In service,Asset Description 78,Henegouwenstraat,85,9000,Ghent,Flanders,3,50,Adequate,1/11/2024 23:48
+79,In service,Asset Description 79,Rue Saint-Hubert,84,5100,Namur,Wallonia,2,17,Adequate,1/11/2024 23:48
+80,In service,Asset Description 80,Chaussée d'Alsemberg,150,6000,Charleroi,Wallonia,2,29,Bad,1/11/2024 23:48
+81,In service,Asset Description 81,Rue de la Station,10,7000,Mons,Wallonia,2,55,Good,1/11/2024 23:48
+82,In service,Asset Description 82,Avenue du Parc,5,1020,Brussels,Brussels,1,56,Adequate,1/11/2024 23:49
+83,In service,Asset Description 83,Rue de la Bourse,1,1000,Brussels,Brussels,1,57,Adequate,1/11/2024 23:49
+84,In service,Asset Description 84,Avenue de l'Atomium,102,1020,Brussels,Brussels,1,58,Bad,1/11/2024 23:49
+85,In service,Asset Description 85,Rue de la Loi,175,1040,Brussels,Brussels,1,55,Good,2/11/2024 00:54
+86,In service,Asset Description 86,Avenue de la Renaissance,30,1000,Brussels,Brussels,1,56,Adequate,2/11/2024 00:54
+87,In service,Asset Description 87,Rue de la Science,14,1040,Brussels,Brussels,1,57,Adequate,2/11/2024 00:54
+88,In service,Asset Description 88,Rue Belliard,99,1040,Brussels,Brussels,1,58,Bad,2/11/2024 00:54
+89,In service,Asset Description 89,Avenue du Parc,5,4000,Liège,Wallonia,2,35,Adequate,2/11/2024 00:54
+90,In service,Asset Description 90,Rue Saint-Luc,8,5004,Namur,Wallonia,2,36,Bad,2/11/2024 00:54
+91,In service,Asset Description 91,Chau. de Nivelles ,212,6041,Charleroi,Wallonia,2,29,Adequate,2/11/2024 00:54
+92,In service,Asset Description 92,Rue de la Loi,175,7000,Mons,Wallonia,2,20,Bad,2/11/2024 00:54
+93,In service,Asset Description 93,Avenue de la Renaissance,30,4000,Liège,Wallonia,2,21,Good,2/11/2024 00:54
+94,In service,Asset Description 94,Chau. de Marche,581,5101,Namur,Wallonia,2,40,Good,2/11/2024 00:54
+95,In service,Asset Description 95,Chau. De Bruxelles,140,6042,Charleroi,Wallonia,2,3,Good,2/11/2024 00:54
+96,In service,Asset Description 96,Avenue de la Joyeuse Entrée,1,7000,Mons,Wallonia,2,4,Good,2/11/2024 00:54
+97,In service,Asset Description 97,Kammenstraat,90,2000,Antwerpen,Flanders,3,5,Good,2/11/2024 00:54
+98,In service,Asset Description 98,Ezelstraat,95,8000,Bruges,Flanders,3,44,Good,2/11/2024 00:54
+99,In service,Asset Description 99,Muntstraat,100,3000,Leuven,Flanders,3,45,Good,2/11/2024 00:54
+100,In service,Asset Description 100,Onze-Lieve-Vrouwestraat,105,2800,Mechelen,Flanders,3,46,Bad,2/11/2024 00:54
+101,In service,Asset Description 101,Mageleinstraat,110,9000,Ghent,Flanders,3,47,Adequate,2/11/2024 00:54
+102,In service,Asset Description 102,Korte Gasthuisstraat,115,2000,Antwerpen,Flanders,3,48,Bad,2/11/2024 00:54
+103,In service,Asset Description 103,Sint-Amandsstraat,120,8000,Bruges,Flanders,3,49,Adequate,2/11/2024 00:54
+104,In service,Asset Description 104,Tiensestraat,125,3000,Leuven,Flanders,3,50,Bad,2/11/2024 00:54
+106,In service,Asset Description 106,Avenue de la Joyeuse Entrée,1,1040,Brussels,Brussels,1,17,Good,2/11/2024 00:57
+107,In service,Asset Description 107,Rue de la Loi,200,1000,Brussels,Brussels,1,29,Good,2/11/2024 00:57
+108,In service,Asset Description 108,Avenue de la Renaissance,30,1000,Brussels,Brussels,1,55,Good,2/11/2024 00:57
+109,In service,Asset Description 109,Rue de la Science,14,1040,Brussels,Brussels,1,56,Bad,2/11/2024 00:57
+110,In service,Asset Description 110,Rue de la Loi,200,4000,Liège,Wallonia,2,57,Adequate,2/11/2024 00:57
+111,In service,Asset Description 111,Av. Baron de Moreau,1,5000,Namur,Wallonia,2,58,Bad,2/11/2024 00:57
+112,In service,Asset Description 112,Rue de la Science,14,6000,Charleroi,Wallonia,2,55,Adequate,2/11/2024 23:17
+113,In service,Asset Description 113,Rue Belliard,99,1040,Brussels,Brussels,1,56,Bad,2/11/2024 23:18
+114,In service,Asset Description 114,Avenue de la Joyeuse Entrée,1,1040,Brussels,Brussels,1,57,Good,2/11/2024 23:18
+115,In service,Asset Description 115,Rue de la Loi,200,1000,Brussels,Brussels,1,58,Good,2/11/2024 23:18
+116,In service,Asset Description 116,Av. Thomas Edison,30,7000,Mons,Wallonia,2,51,Good,2/11/2024 23:18
+117,In service,Asset Description 117,Rue de Gaillarmont ,600,4030,Liège,Wallonia,2,52,Bad,2/11/2024 23:18
+118,In service,Asset Description 118,Rue de Géronsart ,148,5100,Namur,Wallonia,2,53,Adequate,2/11/2024 23:18
+119,In service,Asset Description 119,Rue de Villers,1,6280,Charleroi,Wallonia,2,54,Bad,2/11/2024 23:18
+120,In service,Asset Description 120,Avenue de la Renaissance,30,1000,Brussels,Brussels,1,55,Adequate,2/11/2024 23:18
+121,In service,Asset Description 121,Rue de la Science,14,1040,Brussels,Brussels,1,56,Bad,2/11/2024 23:18
+122,In service,Asset Description 122,Rue Belliard,99,1040,Brussels,Brussels,1,57,Good,2/11/2024 23:23
+123,In service,Asset Description 123,Avenue de la Joyeuse Entrée,1,1040,Brussels,Brussels,1,58,Good,2/11/2024 23:23
+124,In service,Asset Description 124,Rue de la Loi,200,1000,Brussels,Brussels,1,59,Good,2/11/2024 23:23
+125,In service,Asset Description 125,Avenue de la Renaissance,30,1000,Brussels,Brussels,1,60,Bad,2/11/2024 23:23
+126,In service,Asset Description 126,Rue de la Science,14,1040,Brussels,Brussels,1,61,Adequate,2/11/2024 23:23
+127,In service,Asset Description 127,Rue Belliard,99,1040,Brussels,Brussels,1,62,Bad,2/11/2024 23:24
+128,In service,Asset Description 128,Avenue de la Joyeuse Entrée,1,1040,Brussels,Brussels,1,51,Adequate,2/11/2024 23:24
+129,In service,Asset Description 129,Avenue de la Renaissance,40,1000,Brussels,Brussels,1,52,Bad,2/11/2024 23:24
+130,In service,Asset Description 130,Bruul,130,2800,Mechelen,Flanders,3,53,Good,2/11/2024 23:24
+131,In service,Asset Description 131,Veldstraat,135,9000,Ghent,Flanders,3,54,Good,2/11/2024 23:24
+132,In service,Asset Description 132,Meir,140,2000,Antwerpen,Flanders,3,55,Good,2/11/2024 23:24
+133,In service,Asset Description 133,Steenstraat,145,8000,Bruges,Flanders,3,56,Bad,2/11/2024 23:24
+134,In service,Asset Description 134,Bondgenotenlaan,150,3000,Leuven,Flanders,3,57,Adequate,2/11/2024 23:24
+135,In service,Asset Description 135,Onze-Lieve-Vrouwestraat,155,2800,Mechelen,Flanders,3,58,Bad,2/11/2024 23:24
+136,In service,Asset Description 136,Vlaanderenstraat,160,9000,Ghent,Flanders,3,59,Adequate,2/11/2024 23:24
+137,In service,Asset Description 137,Hoogstraat,165,2000,Antwerpen,Flanders,3,60,Bad,2/11/2024 23:24
+138,In service,Asset Description 138,Langestraat,170,8000,Bruges,Flanders,3,61,Good,2/11/2024 23:24
+139,In service,Asset Description 139,Naamsestraat,175,3000,Leuven,Flanders,3,62,Good,2/11/2024 23:24
+140,In service,Asset Description 140,Rue de la Science,14,7000,Mons,Wallonia,2,40,Good,2/11/2024 23:24
+141,In service,Asset Description 141,Rue Belliard,99,4000,Liège,Wallonia,2,3,Good,2/11/2024 23:24
+142,In service,Asset Description 142,Av. du Bourgmestre Jean Materne,77,5100,Namur,Wallonia,2,4,Good,2/11/2024 23:24
+143,In service,Asset Description 143,Rue de la Loi,200,6000,Charleroi,Wallonia,2,5,Good,2/11/2024 23:24
+144,In service,Asset Description 144,Av. Baudouin de Constantinople,5,7000,Mons,Wallonia,2,44,Good,2/11/2024 23:24
+145,In service,Asset Description 145,Rue de la Science,14,4000,Liège,Wallonia,2,45,Good,2/11/2024 23:24
+146,In service,Asset Description 146,Rue Belliard,99,5000,Namur,Wallonia,2,56,Good,2/11/2024 23:24

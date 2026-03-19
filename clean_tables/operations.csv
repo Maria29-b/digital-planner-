@@ -1,0 +1,28 @@
+﻿pk_operation_id,operation_key,operation_description,duration,duration_unit,predecessor_operation_key,operation_type,operation_subtype,operation_order
+1,Corrective-Breakdown-1,Secure the Area,"15,0",Minutes,,Corrective,Breakdown,1
+2,Corrective-Breakdown-2,Preliminary Inspection,"20,0",Minutes,1.0,Corrective,Breakdown,2
+3,Corrective-Breakdown-3,Diagnostics and Troubleshooting,"1,0",Hours,2.0,Corrective,Breakdown,3
+4,Corrective-Breakdown-4,Component Repair or Replacement,"1,0",Hours,3.0,Corrective,Breakdown,4
+5,Corrective-Breakdown-5,Control System Reset,"30,0",Minutes,4.0,Corrective,Breakdown,5
+6,Corrective-Breakdown-6,Detailed Testing and Validation,"45,0",Minutes,5.0,Corrective,Breakdown,6
+7,Corrective-Breakdown-7,Post-Repair Adjustments,"20,0",Minutes,6.0,Corrective,Breakdown,7
+20,Corrective-Breakdown-8,System Cleanup and Safety Checks,"15,0",Minutes,7.0,Corrective,Breakdown,8
+21,Corrective-Breakdown-9,Documentation and Reporting,"20,0",Minutes,20.0,Corrective,Breakdown,9
+22,Corrective-Breakdown-10,Restore Service,"15,0",Minutes,21.0,Corrective,Breakdown,10
+8,Corrective-Low-1,Diagnostics and Troubleshooting,"30,0",Minutes,,Corrective,Low,1
+9,Corrective-Low-2,Component Repair and Replacement,"1,0",Hours,8.0,Corrective,Low,2
+10,Corrective-Low-3,Control System Checks,"5,0",Minutes,9.0,Corrective,Low,3
+11,Corrective-Low-4,Testing and Validation,"5,0",Minutes,10.0,Corrective,Low,4
+12,Corrective-Low-5,Documentation and Reporting,"5,0",Minutes,11.0,Corrective,Low,5
+13,Corrective-Low-6,Post-Maintenance Adjustments,"5,0",Minutes,12.0,Corrective,Low,6
+14,Corrective-Low-7,System Cleanup and Safety Checks,"10,0",Minutes,13.0,Corrective,Low,7
+15,Preventive-monthly-1,Safety Systems Check,"30,0",Minutes,,Preventive,monthly,1
+16,Preventive-monthly-2,Structural and Mechanical Inspection,"30,0",Minutes,15.0,Preventive,monthly,2
+17,Preventive-monthly-3,Electrical and Control Systems Examination,"30,0",Minutes,16.0,Preventive,monthly,3
+18,Preventive-monthly-4,Performance and Load Testing,"50,0",Minutes,17.0,Preventive,monthly,4
+19,Preventive-monthly-5,Documentation and Compliance Verification,"10,0",Minutes,18.0,Preventive,monthly,5
+23,Corrective-Meca-1,Lubrication of Moving Parts,"1,0",Hours,,Corrective,Meca,1
+24,Corrective-Meca-2,Inspection and Adjustment of Suspension Cables,"30,0",Minutes,23.0,Corrective,Meca,2
+25,Corrective-Meca-3,Alignment and Adjustment of Door Mechanisms,"30,0",Minutes,24.0,Corrective,Meca,3
+26,Corrective-Elec-1,Inspection and Testing of Control Panels,"45,0",Minutes,,Corrective,Elec,1
+27,Corrective-Elec-2,Checking and Testing of Safety Circuits,"45,0",Minutes,26.0,Corrective,Elec,2

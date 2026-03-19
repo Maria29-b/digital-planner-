@@ -1,0 +1,8 @@
+﻿pk_technician_id,technician_status,technician_first_name,technician_last_name,technician_full_name,fk_skill_id,fk_availability_id,address_street,address_door,address_post_code,address_city,fk_work_center_id
+6,In service,Luc,Dupuis,Luc Dupuis,2,1,Avenue Notre Dame,101,1140,Bruxelles,1
+11,In service,André,Philippe,André Philippe,3,1,Rue Van Hoorde,9,1030,Bruxelles,1
+16,In service,Charles,Renault,Charles Renault,4,1,Avenue Clémenceau,44,1070,Bruxelles,1
+2,In service,Jacques,Lefèvre,Jacques Lefèvre,1,1,Gordunakaai ,91,9000,Gent,3
+12,In service,Jean,Durand,Jean Durand,3,1,Korenlei,10,9000,Gent,3
+9,In service,Mathieu,Gérard,Mathieu Gérard,3,1,Rue Saint-Gilles,104,4000,Liège,2
+17,In service,Victor,Caron,Victor Caron,4,1,Place Saint-Lambert,27,4000,Liège,3
