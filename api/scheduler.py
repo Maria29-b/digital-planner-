@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 import os
 from datetime import datetime, timedelta
+from geopy.distance import geodesic
 
 # ── Chemins des fichiers ──────────────────────────────────────────
 # On remonte d'un niveau depuis api/ vers la racine du projet
@@ -69,6 +70,13 @@ def find_free_slot(calendrier_tech, date, duration_minutes):
             current = max(fins) if fins else current + timedelta(minutes=5)
 
     return None
+
+
+def get_distance_km(lat1, lng1, lat2, lng2):
+    """Calcule la distance en km entre deux points GPS"""
+    if None in [lat1, lng1, lat2, lng2]:
+        return 999
+    return geodesic((lat1, lng1), (lat2, lng2)).km
 
 
 def get_technicians_for_operation(required_skill_desc, skill_to_technicians, tech_dict):
@@ -140,6 +148,7 @@ def run_scheduler(date_debut: datetime = None, nb_jours_max: int = NB_JOURS_MAX)
     ).reset_index(drop=True)
 
     # ── Initialisation structures ─────────────────────────────────
+    # ── Coordonnées GPS depuis le CSV ─────────────────────────────
     tech_dict = {row["pk_technician_id"]: row.to_dict() for _, row in tech.iterrows()}
 
     skill_to_technicians = {}
@@ -200,7 +209,18 @@ def run_scheduler(date_debut: datetime = None, nb_jours_max: int = NB_JOURS_MAX)
 
         for j in range(jours_max):
             jour = jour_courant + timedelta(days=j)
-            for tid in technicians_autorises:
+
+            asset_lat = op.get("asset_lat") if pd.notna(op.get("asset_lat")) else None
+            asset_lng = op.get("asset_lng") if pd.notna(op.get("asset_lng")) else None
+            technicians_tries = sorted(
+                technicians_autorises,
+                key=lambda tid: get_distance_km(
+                    tech_dict[tid].get("lat"), tech_dict[tid].get("lng"),
+                    asset_lat, asset_lng
+                )
+            )
+
+            for tid in technicians_tries:
                 slot = find_free_slot(calendrier[tid], jour, duration_minutes)
                 if slot is not None:
                     start_dt, end_dt = slot

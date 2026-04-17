@@ -1,8 +1,8 @@
-﻿pk_technician_id,technician_status,technician_first_name,technician_last_name,technician_full_name,skill_description,availability_status,working_hour_description,start_hour,end_hour,pause_start,pause_end,address_street,address_door,address_post_code,address_city,work_center_status,work_center_description,daily_capacity_minutes
-6,In service,Luc,Dupuis,Luc Dupuis,Mecanician,Active,Morning,7:00,17:00,11:00,12:00,Avenue Notre Dame,101,1140,Bruxelles,In service,Brussels,540
-11,In service,André,Philippe,André Philippe,Inspector Junior,Active,Morning,7:00,17:00,11:00,12:00,Rue Van Hoorde,9,1030,Bruxelles,In service,Brussels,540
-16,In service,Charles,Renault,Charles Renault,Inspector Senior,Active,Morning,7:00,17:00,11:00,12:00,Avenue Clémenceau,44,1070,Bruxelles,In service,Brussels,540
-2,In service,Jacques,Lefèvre,Jacques Lefèvre,Electrician,Active,Morning,7:00,17:00,11:00,12:00,Gordunakaai ,91,9000,Gent,In service,Flanders,540
-12,In service,Jean,Durand,Jean Durand,Inspector Junior,Active,Morning,7:00,17:00,11:00,12:00,Korenlei,10,9000,Gent,In service,Flanders,540
-9,In service,Mathieu,Gérard,Mathieu Gérard,Inspector Junior,Active,Morning,7:00,17:00,11:00,12:00,Rue Saint-Gilles,104,4000,Liège,In service,Wallonia,540
-17,In service,Victor,Caron,Victor Caron,Inspector Senior,Active,Morning,7:00,17:00,11:00,12:00,Place Saint-Lambert,27,4000,Liège,In service,Flanders,540
+﻿pk_technician_id,technician_status,technician_first_name,technician_last_name,technician_full_name,skill_description,availability_status,working_hour_description,start_hour,end_hour,pause_start,pause_end,address_street,address_door,address_post_code,address_city,work_center_status,work_center_description,daily_capacity_minutes,lat,lng
+6,In service,Luc,Dupuis,Luc Dupuis,Mecanician,Active,Morning,7:00,17:00,11:00,12:00,Avenue Notre Dame,101,1140,Bruxelles,In service,Brussels,540,50.8714319,4.4003256
+11,In service,André,Philippe,André Philippe,Inspector Junior,Active,Morning,7:00,17:00,11:00,12:00,Rue Van Hoorde,9,1030,Bruxelles,In service,Brussels,540,50.8607807,4.3764136
+16,In service,Charles,Renault,Charles Renault,Inspector Senior,Active,Morning,7:00,17:00,11:00,12:00,Avenue Clémenceau,44,1070,Bruxelles,In service,Brussels,540,50.8403336,4.3338653
+2,In service,Jacques,Lefèvre,Jacques Lefèvre,Electrician,Active,Morning,7:00,17:00,11:00,12:00,Gordunakaai ,91,9000,Gent,In service,Flanders,540,51.0415487,3.6945205
+12,In service,Jean,Durand,Jean Durand,Inspector Junior,Active,Morning,7:00,17:00,11:00,12:00,Korenlei,10,9000,Gent,In service,Flanders,540,51.0551328,3.7195914
+9,In service,Mathieu,Gérard,Mathieu Gérard,Inspector Junior,Active,Morning,7:00,17:00,11:00,12:00,Rue Saint-Gilles,104,4000,Liège,In service,Wallonia,540,50.6392435,5.5638479
+17,In service,Victor,Caron,Victor Caron,Inspector Senior,Active,Morning,7:00,17:00,11:00,12:00,Place Saint-Lambert,27,4000,Liège,In service,Flanders,540,50.644577,5.5735749

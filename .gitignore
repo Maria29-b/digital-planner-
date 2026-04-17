@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+frontend/.env
+
+# Base de données locale
+*.db
+
+# Scripts one-shot
+add_coordinates.py
+
+# OS
+.DS_Store
+Thumbs.db
