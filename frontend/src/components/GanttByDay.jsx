@@ -190,6 +190,9 @@ function GanttByDay({ operations }) {
           left: tooltip.x + 12, top: tooltip.y - 60
         }}>
           <div className="tooltip-title">{tooltip.op.operation_subtype}</div>
+          <div>🗂️ ID opération : {tooltip.op.pk_woo_id || "—"}</div>
+          <div>🔢 Ordre {tooltip.op.operation_order || "—"}</div>
+          <div>📝 {tooltip.op.operation_description || "—"}</div>
           <div>👷 {tooltip.op.technician_full_name}</div>
           <div>🕐 {tooltip.op.operation_scheduled_start.slice(11,16)}
                → {tooltip.op.operation_scheduled_end.slice(11,16)}</div>

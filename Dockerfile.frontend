@@ -1,0 +1,21 @@
+# ── Étape 1 : Build React ────────────────────────────────────────
+FROM node:18-alpine AS build
+
+WORKDIR /app
+
+COPY frontend/package.json ./
+RUN npm install
+
+COPY frontend/ .
+
+# L'API est servie sur le même hôte via nginx proxy
+ENV REACT_APP_API_URL=""
+RUN npm run build
+
+# ── Étape 2 : Servir avec nginx ───────────────────────────────────
+FROM nginx:alpine
+
+COPY --from=build /app/build /usr/share/nginx/html
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+
+EXPOSE 80

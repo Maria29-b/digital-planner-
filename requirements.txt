@@ -3,3 +3,5 @@ uvicorn
 pandas
 numpy
 python-multipart
+geopy
+scikit-learn
